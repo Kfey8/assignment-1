@@ -56,3 +56,6 @@ this all I had to do was go to properties once again, and scroll all the way
 to the bottom where it gives my endpoint. I clicked the link and all of my 
 website looked exactly as I wanted it to! Just to be sure that everything 
 was functioning properly I opened it up on my phone as well and 
+
+Website link:
+http://feytheoryequinetrainingmethods.com.s3-website-us-east-1.amazonaws.com/
